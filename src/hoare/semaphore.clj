@@ -58,5 +58,3 @@
 
 #_(doseq [i (range 0 200)]
   (>!! controlline "stop"))
-
-;(vec (take 5 (iterate inc 1)))
