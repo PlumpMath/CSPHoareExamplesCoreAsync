@@ -4,7 +4,7 @@
 1978 Tony Hoare published a paper with the title Communication Sequential Processes.
 In this paper he introduced a model or algebra to describe processes and the communication between them.
 
-This little project is just a incomplete collection of  implementation of the examples which Hoare mentioned in this paper.
+This little project is just an incomplete collection of  implementation of the examples which Hoare mentioned in this paper.
 
 [Clojure](https://github.com/clojure/clojure) and the library [core.async](https://github.com/clojure/core.async) were used to implement the examples.
 
