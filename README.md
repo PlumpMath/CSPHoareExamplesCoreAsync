@@ -1,14 +1,14 @@
-# CSP Hoare Examples with core.async
+# CSP - Hoares examples with core.async
 
 ## Introduction
 1978 Tony Hoare published a paper with the title Communication Sequential Processes.
 In this paper he introduced a model or algebra to describe processes and the communication between them.
 
-This little project is just a incomplete collection of  implementation of the examples which Hoare mentioned in his paper.
+This little project is just a incomplete collection of  implementation of the examples which Hoare mentioned in this paper.
 
 [Clojure](https://github.com/clojure/clojure) and the library [core.async](https://github.com/clojure/core.async) were used to implement the examples.
 
-Well after I already implemented most of the examples, I found the repository [async-plgd](https://github.com/nodename/async-plgd) of Alan Shaw which is similar to this one. I was very surprised how different or similar both implementation are. So feel free to compare both by your own.
+Well, after I already implemented most of the examples, I found the repository [async-plgd](https://github.com/nodename/async-plgd) of Alan Shaw which is similar to this one. I was very surprised how different or similar both implementation are. So feel free to compare both by your own.
 
 ## Content
 
